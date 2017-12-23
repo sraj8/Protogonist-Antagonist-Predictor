@@ -5,6 +5,9 @@ Natural Language Processing Application - Developed by Shail Rakhunde and Sylves
 numpy, matplotlib, NLTK, pandas, watson_developer_cloud (Natural language understanding), Empath (Linguistic Inquiry), gensim (Word2Vec)
 Conda, Anaconda, Jupyter(IDE)
 
+## Data
+- Film Corpus 2.0 (Natural Language and Dialogue Systems - University of California at Santa Cruz)
+
 ## Files and directories
 - /modules: Have common utility code
 - /Data: Contains data files
