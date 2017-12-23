@@ -1,0 +1,21 @@
+char,movie,filename
+INDY,Raiders of the Lost Ark,Data\dialogs\Adventure\indianajonesandtheraidersofthelostark_dialog
+CLARICE,The Silence of the Lambs,Data\dialogs\Thriller\silenceofthelambs_dialog
+ROCKY,Rocky,Data\dialogs\Drama\rocky_dialog
+RIPLEY,Aliens,Data\dialogs\Sci-Fi\aliens_dialog
+BAILEY,It's a Wonderful Life,Data\dialogs\Romance\itsawonderfullife_dialog
+TOM,The Grapes of Wrath,Data\dialogs\Drama\grapesofwraththe_dialog
+SCHINDLER,Schindler's List,Data\dialogs\War\schindlerslist_dialog
+HAN,Star Wars,Data\dialogs\Sci-Fi\aliens_dialog\starwarstheempirestrikesback_dialog
+GANDHI,Gandhi,Data\dialogs\Drama\gandhi_dialog
+LOUISE,Thelma & Louise,Data\dialogs\Thriller\thelmalouise_dialog
+THELMA,Thelma & Louise,Data\dialogs\Thriller\thelmalouise_dialog
+WOODWARD,All the President's Men,Data\dialogs\Thriller\allthepresidentsmen_dialog
+BERNSTEIN,All the President's Men,Data\dialogs\Thriller\allthepresidentsmen_dialog
+ERIN,Erin Brockovich,Data\dialogs\Drama\erinbrockovich_dialog
+Cogburn,True Grit,Data\dialogs\Western\truegrit_dialog
+OBI-WAN,Star Wars,Data\dialogs\Sci-Fi\starwarsattackoftheclones_dialog
+DOYLE,The French Connection,Data\dialogs\Thriller\frenchconnectionthe_dialog
+BATMAN,Batman,Data\dialogs\Action\batman_dialog
+ANDREW,Philadelphia,Data\dialogs\Drama\philadelphia_dialog
+MAXIMUS,Gladiator,Data\dialogs\Drama\gladiator_dialog

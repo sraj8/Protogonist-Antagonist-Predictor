@@ -1,0 +1,44 @@
+char,movie,filename,label
+INDY,Raiders of the Lost Ark,Data/dialogs/Adventure/indianajonesandtheraidersofthelostark_dialog.txt,1
+CLARICE,The Silence of the Lambs,Data/dialogs/Thriller/silenceofthelambs_dialog.txt,1
+ROCKY,Rocky,Data/dialogs/Drama/rocky_dialog.txt,1
+RIPLEY,Aliens,Data/dialogs/Sci-Fi/aliens_dialog.txt,1
+BAILEY,It's a Wonderful Life,Data/dialogs/Romance/itsawonderfullife_dialog.txt,1
+TOM,The Grapes of Wrath,Data/dialogs/Drama/grapesofwraththe_dialog.txt,1
+SCHINDLER,Schindler's List,Data/dialogs/War/schindlerslist_dialog.txt,1
+HAN,Star Wars,Data/dialogs/Sci-Fi/starwarstheempirestrikesback_dialog.txt,1
+GANDHI,Gandhi,Data/dialogs/Drama/gandhi_dialog.txt,1
+LOUISE,Thelma & Louise,Data/dialogs/Thriller/thelmalouise_dialog.txt,1
+THELMA,Thelma & Louise,Data/dialogs/Thriller/thelmalouise_dialog.txt,1
+WOODWARD,All the President's Men,Data/dialogs/Thriller/allthepresidentsmen_dialog.txt,1
+BERNSTEIN,All the President's Men,Data/dialogs/Thriller/allthepresidentsmen_dialog.txt,1
+ERIN,Erin Brockovich,Data/dialogs/Drama/erinbrockovich_dialog.txt,1
+OBI-WAN,Star Wars,Data/dialogs/Sci-Fi/starwarsattackoftheclones_dialog.txt,1
+DOYLE,The French Connection,Data/dialogs/Thriller/frenchconnectionthe_dialog.txt,1
+BATMAN,Batman,Data/dialogs/Action/batman_dialog.txt,1
+ANDREW,Philadelphia,Data/dialogs/Drama/philadelphia_dialog.txt,1
+MAXIMUS,Gladiator,Data/dialogs/Drama/gladiator_dialog.txt,1
+DR. LECTER,The Silence of the Lambs,Data/dialogs/Thriller/silenceofthelambs_dialog.txt,0
+NORMAN,Psycho,Data/dialogs/Thriller/psycho_dialog.txt,0
+VADER,The Empire Strikes Back,Data/dialogs/Sci-Fi/starwarstheempirestrikesback_dialog.txt,0
+WITCH,The Wizard of Oz,Data/dialogs/Fantasy/wizardofozthe_dialog.txt,0
+BIG NURSE,One Flew Over the Cuckoo's Nest,Data/dialogs/Drama/oneflewoverthecuckoosnest_dialog.txt,0
+POTTER,It's a Wonderful Life,Data/dialogs/Romance/itsawonderfullife_dialog.txt,0
+PHYLLIS,Double Indemnity,Data/dialogs/Film-Noir/doubleindemnity_dialog.txt,0
+MICHAEL,The Godfather Part II,Data/dialogs/Drama/godfatherpartii_dialog.txt,0
+HAL,2001: A Space Odyssey,Data/dialogs/Sci-Fi/2001aspaceodyssey_dialog.txt,0
+GOETH,Schindler's List,Data/dialogs/War/schindlerslist_dialog.txt,0
+CROSS,Chinatown,Data/dialogs/Thriller/chinatown_dialog.txt,0
+ANNIE,Misery,Data/dialogs/Thriller/misery_dialog.txt,0
+TERMINATOR,The Terminator,Data/dialogs/Thriller/terminator_dialog.txt,0
+EVE,All About Eve,Data/dialogs/Drama/allabouteve_dialog.txt,0
+GEKKO,Wall Street,Data/dialogs/Drama/wallstreet_dialog.txt,0
+JACK,The Shining,Data/dialogs/Horror/shiningthe_dialog.txt,0
+TRAVIS,Taxi Driver,Data/dialogs/Thriller/taxidriver_dialog.txt,0
+HUNSECKER,Sweet Smell of Success,Data/dialogs/Film-Noir/sweetsmellofsuccess_dialog.txt,0
+FRANK,Blue Velvet,Data/dialogs/Thriller/bluevelvet_dialog.txt,0
+FREDDY,A Nightmare on Elm Street,Data/dialogs/Mystery/nightmareonelmstreeta_dialog.txt,0
+JOKER,Batman,Data/dialogs/Action/batman_dialog.txt,0
+HANS,Die Hard,Data/dialogs/Action/diehard_dialog.txt,0
+TONY,Scarface,Data/dialogs/Drama/scarface_dialog.txt,0
+VERBAL,The Usual Suspects,Data/dialogs/Thriller/usualsuspectsthe_dialog.txt,0

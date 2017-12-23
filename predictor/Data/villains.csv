@@ -1,0 +1,25 @@
+char,movie,filename
+DR. LECTER,The Silence of the Lambs,Data\dialogs\Thriller\silenceofthelambs_dialog
+NORMAN,Psycho,Data\dialogs\Thriller\psycho_dialog
+VADER,The Empire Strikes Back,Data\dialogs\Sci-Fi\starwarstheempirestrikesback_dialog
+WITCH,The Wizard of Oz,Data\dialogs\Fantasy\wizardofozthe_dialog
+BIG NURSE,One Flew Over the Cuckoo's Nest,Data\dialogs\Drama\oneflewoverthecuckoosnest_dialog
+POTTER,It's a Wonderful Life,Data\dialogs\Romance\itsawonderfullife_dialog
+PHYLLIS,Double Indemnity,Data\dialogs\Film-Noir\doubleindemnity_dialog
+MICHAEL,The Godfather Part II,Data\dialogs\Drama\godfatherpartii_dialog
+HAL,2001: A Space Odyssey,Data\dialogs\Sci-Fi\2001aspaceodyssey_dialog
+GOETH,Schindler's List,Data\dialogs\War\schindlerslist_dialog
+CROSS,Chinatown,Data\dialogs\Thriller\chinatown_dialog
+ANNIE,Misery,Data\dialogs\Thriller\misery_dialog
+TERMINATOR,The Terminator,Data\dialogs\Thriller\terminator_dialog
+EVE,All About Eve,Data\dialogs\Drama\allabouteve_dialog
+GEKKO,Wall Street,Data\dialogs\Drama\wallstreet_dialog
+JACK,The Shining,Data\dialogs\Horror\shiningthe_dialog
+TRAVIS,Taxi Driver,Data\dialogs\Thriller\taxidriver_dialog
+HUNSECKER,Sweet Smell of Success,Data\dialogs\Film-Noir\sweetsmellofsuccess_dialog
+FRANK,Blue Velvet,Data\dialogs\Thriller\bluevelvet_dialog
+FREDDY,A Nightmare on Elm Street,Data\dialogs\Mystery\nightmareonelmstreeta_dialog
+JOKER,Batman,Data\dialogs\Action\batman_dialog
+HANS,Die Hard,Data\dialogs\Action\diehard_dialog
+TONY,Scarface,Data\dialogs\Drama\scarface_dialog
+VERBAL,The Usual Suspects,Data\dialogs\Thriller\usualsuspectsthe_dialog
